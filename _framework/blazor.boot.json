@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TestApp.Browser",
   "resources": {
-    "hash": "sha256-A4UFb3bsZQXHjq5+wT4gtsmbHdd3gAEkq8UtO6HRL0k=",
+    "hash": "sha256-evCh/gNMUoWLNG3/kdUkJo7SulvKq4X5AZ/cDXPqa+s=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-IPi1wib9R3X5OscrsumygFwaBFnpAv+6rCkXVlKNDRc="
     },
@@ -253,8 +253,8 @@
       "TestableIO.System.IO.Abstractions.wasm": "sha256-sGIgp1mxsr92bitqoMIYsgT5Sbq+loysdQVQasdjoTs=",
       "TestableIO.System.IO.Abstractions.Wrappers.wasm": "sha256-O9clUv8W1SKDPvI+0S4L3R4q3Cz4//x4JygdyH4yQjk=",
       "Testably.Abstractions.FileSystem.Interface.wasm": "sha256-hNzJ+LBLuzx6GgPFUjtqlrgMya4vKNXy0rV1oVfeZ6A=",
-      "TestApp.Browser.wasm": "sha256-vktAE0q29IQ5Wna0eAgok7pMsaKPzBq3LkclDmBV0Lo=",
-      "TestApp.wasm": "sha256-mTO1/+9f36jX+kJI6m7yC+fWLSZ7XjzRqDE1+JCnI/Q=",
+      "TestApp.Browser.wasm": "sha256-t3FFflkb2LJUZCe5vjzh1a9qGlTg74gg/LTxHsQlxEA=",
+      "TestApp.wasm": "sha256-lnCyUXHQutX8B7P/h7goBtZXOQLtGD2NdFcgGOz0Cjo=",
       "WindowsBase.wasm": "sha256-sfB/d3OmyulboVLPTqhNyVrtiaEQe8WQW8+JDlW1yJk=",
       "Xaml.Behaviors.Interactions.Custom.wasm": "sha256-1cs+nUOP4Xl/5wAD5qjudT6saONNEEKPyHKqvYhbDbU=",
       "Xaml.Behaviors.Interactions.DragAndDrop.wasm": "sha256-K/Jt1sUsQw7DrSNawp4YxbUNBl1vbk9qmbvDKf2Y1nI=",
@@ -263,11 +263,11 @@
       "Xaml.Behaviors.Interactions.Responsive.wasm": "sha256-u9GwxG88TtACOqBdvGruh0wAV1MBg6cpeZT5yOGUwV4=",
       "Xaml.Behaviors.Interactions.wasm": "sha256-wM+3L4CGtyq9qg0WDEFWHe3nfPfwfH2XIGETOXmsO4M=",
       "Xaml.Behaviors.Interactivity.wasm": "sha256-+ecxl+YnDxxE+Njq+pN0wwmKlbUNuRKGMQO1ymMIMRM=",
-      "Zafiro.Avalonia.DataViz.wasm": "sha256-/yz1s7xv1eHch92X12WvyHQxE3bCfLAIlu30Y49zOMs=",
-      "Zafiro.Avalonia.Dialogs.wasm": "sha256-bskrLAg+SaEJXYrMf9JXf7+kl+hMw8108nYlO5lxLA4=",
-      "Zafiro.Avalonia.Icons.Projektanker.wasm": "sha256-VZA5v6Jx6Zi84eoEBhN8VV8V2J2l3kn+9KC/kNKxMCA=",
-      "Zafiro.Avalonia.Icons.Svg.wasm": "sha256-McEuk52q3uGCRbyLnVKrPLswkgoeShygqcvCtkgTnao=",
-      "Zafiro.Avalonia.wasm": "sha256-nEgxkA31TSyuXK5NpfsPf2809DFhqQ+SdjAud3XN3pM=",
+      "Zafiro.Avalonia.DataViz.wasm": "sha256-ZBphEGD8ePcsP8FAtk8YZDg/YRcNOSg/ySIzqSLAIPM=",
+      "Zafiro.Avalonia.Dialogs.wasm": "sha256-cho8N9O6KMqmjGEHXxAAVKtkvifTUrtxPnngfgKAYQc=",
+      "Zafiro.Avalonia.Icons.Projektanker.wasm": "sha256-0eJct3LhB9FowTncoOSEJvR6rrdMWx+f26uQDSNucNM=",
+      "Zafiro.Avalonia.Icons.Svg.wasm": "sha256-ZwFrgAH7/i4eqVK/Pqnmqc2BUyaqE72owbQfureTPSQ=",
+      "Zafiro.Avalonia.wasm": "sha256-9Z/veZT5s09bwqJQfFRyl5oOTh66tS6yDvQSFq4jScI=",
       "Zafiro.FileSystem.wasm": "sha256-/3JZE23DM94dYRjoBXabB8esE07Bs7gY6e3q8OBt8zQ=",
       "Zafiro.UI.wasm": "sha256-kOFbmAw9Af5umR3KNOayaSxrt21/ebRV/nHQSrgxCEw=",
       "Zafiro.wasm": "sha256-Mzaq1SoZUJd5A6dean/+RcaDQjNpUDxVt+gCIYgOsQg="
